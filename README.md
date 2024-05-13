@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @katayouny
-- 👀 I’m interested in web developing both front-end and back-end.
+- 👋 Hi, I’m @katayouny, a jonoiur web developer.
+- 👀 I’m interested in both front-end and back-end web development.
 - 🌱 I’m currently learning more about React + TypeScript.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: K.yousefzadeh@gmail.com
