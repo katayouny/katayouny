@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @katayouny
+- 👀 I’m interested in web developing both front-end and back-end.
+- 🌱 I’m currently learning more about React + TypeScript.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me: K.yousefzadeh@gmail.com
+- 😄 Pronouns: Call me Katy :)
+- ⚡ Fun fact: That is a secret, Ha ha.. :D, but don't take it serious :).
+
+<!---
+katayouny/katayouny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
