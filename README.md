@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @katayouny, a jonoiur web developer.
+- 👋 Hi, I’m @katayouny, a web developer.
 - 👀 I’m interested in both front-end and back-end web development.
-- 🌱 I’m currently learning more about React + TypeScript.
+- 🌱 I’m currently learning about TypeScript.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: K.yousefzadeh@gmail.com
 - 😄 Pronouns: Call me Katy :)
