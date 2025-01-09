@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: K.yousefzadeh@gmail.com
 - 😄 Pronouns: Call me Katy :)
-- ⚡ Fun fact: That is a secret, Ha ha.. :D, but don't take it serious :).
+- ⚡ Fun fact: That is a secret, Ha ha.. :D, don't take it serious ;).
 
 <!---
 katayouny/katayouny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
